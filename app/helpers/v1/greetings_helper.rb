@@ -1,2 +1,2 @@
-module GreetingsHelper
+module V1::GreetingsHelper
 end
