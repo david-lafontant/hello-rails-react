@@ -22,9 +22,10 @@ Run the following in your terminal:
 `git clone https://github.com/david-lafontant/hello-rails.git`
 `cd hello-rails`
 
-### Install gems
+### Install gems and packages
 
 run `bundle install`
+run `yarn install`
 
 
 ### Setup database
